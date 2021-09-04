@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="aryanpathak0123@gmail.com">Here</a>
 - 😄 Pronouns: He/him
 <!-- - ![Connect with me](https://img.shields.io/twitter/follow/Aryan0142?style=social) -->
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aaryan-1104&theme=dark)](https://git.io/streak-stats)
 
 
-<!-- ![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaryan-1104&count_private=true&hide=contribs,prs,stars) -->
+
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaryan-1104&count_private=true&hide=contribs,prs,stars)
