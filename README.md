@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning <b>Data Structure and Algorithm</b>
+- 🌱 I’m currently learning <b>Data Science</b>
 - 📫 How to reach me: <a href="aryanpathak0123@gmail.com">Here</a>
 - 😄 Pronouns: He/him
 <!-- - ![Connect with me](https://img.shields.io/twitter/follow/Aryan0142?style=social) -->
