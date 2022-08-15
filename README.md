@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning <b>Full Stack Development</b>
 - 📫 How to reach me: <a href="aryanpathak0123@gmail.com">Here</a>
 - 😄 Pronouns: He/him
+- 😄 Check out my Project: https://www.blogmycode.me/ 
 <!-- - ![Connect with me](https://img.shields.io/twitter/follow/Aryan0142?style=social) -->
 <br>
 
