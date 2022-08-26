@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning <b>Full Stack Development</b>
-- 📫 How to reach me: <a href="aryanpathak0123@gmail.com">Here</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/aryan-pathak-5a26241a6/">Here</a>
 - 😄 Pronouns: He/him
 - 😄 Check out my Project: https://www.blogmycode.me/ 
 - 😄 Source Code:Frontend- https://github.com/aaryan-1104/sono || Backend - https://github.com/aaryan-1104/sonoBackend
